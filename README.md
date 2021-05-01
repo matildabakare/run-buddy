@@ -1,7 +1,7 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
-A wecite that offer fitness training services
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
@@ -11,4 +11,6 @@ A wecite that offer fitness training services
 https://matildabakare.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Matilda Bakare
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc 
